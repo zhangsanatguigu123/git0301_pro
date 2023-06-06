@@ -8,5 +8,6 @@ public class Main {
         System.out.println("master master");
         System.out.println("master master master");
         System.out.println("hotfix hotfix");
+        System.out.println("hello zhangsan");
     }
 }
